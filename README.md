@@ -81,4 +81,3 @@ npm run build
 
 ---
 
-*Built with ❤️ by MiniMax Agent - Winning AI Solutions*
